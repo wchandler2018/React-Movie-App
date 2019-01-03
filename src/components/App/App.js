@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "../elements/Header/Header";
 import Home from "../Home/Home";
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { HashRouter, Route, Switch } from "react-router-dom";
 import Movie from "../Movie/Movie";
 import NotFound from "../elements/NotFound/NotFound";
 
